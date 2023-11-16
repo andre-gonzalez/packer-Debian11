@@ -2,6 +2,7 @@
 packer_cache/
 output-virtualbox-iso/
 output-vmware-iso/
+credentials.pkr.hcl
 
 # For built boxes
 *.box
